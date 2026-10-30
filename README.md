@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**1022260464/1022260464** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="https://1022260464.github.io/">
+    <img
+      src="https://raw.githubusercontent.com/1022260464/1022260464/main/assets/1.png"
+      alt="0x330 个人博客"
+      width="100%"
+    />
+     <img
+      src="https://raw.githubusercontent.com/1022260464/1022260464/main/assets/22.png"
+      alt="0x330 个人博客"
+      width="100%"
+    />
+    <img
+      src="https://raw.githubusercontent.com/1022260464/1022260464/main/assets/33.png"
+      alt="0x330 个人博客"
+      width="100%"
+    />
+  </a>
 
-Here are some ideas to get you started:
+  <h1>0x330</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p>
+    记录代码学习、日常生活，以及前端、后端、算法与 AI 的实践笔记。
+  </p>
+
+  <a href="https://1022260464.github.io/">
+    <strong>进入个人博客 →</strong>
+  </a>
+
+</div>
